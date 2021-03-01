@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/addyosmani)
+![Metrics](https://metrics.lecoq.io/FredrikM97)
 
 <!--
 **addyosmani/addyosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
