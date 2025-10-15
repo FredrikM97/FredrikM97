@@ -11,8 +11,6 @@ My two cats inspire me to solve problems creatively. Why add another app when I 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FredrikM97&repo=py-surepetcare&theme=transparent)](https://github.com/FredrikM97/py-surepetcare)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FredrikM97&repo=mealplan-card&theme=transparent)](https://github.com/YOUR_USERNAME/mealplan-card)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FredrikM97&layout=compact)
 ![Activity Stats](https://github-readme-stats.vercel.app/api?username=FredrikM97&show_icons=true)
 
 
